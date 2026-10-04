@@ -1,0 +1,8 @@
+body {
+    background-image: url('https://00batarong.neocities.org/batarong-yellow-triangle.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #ffcc00;
+    font-family: "Comic Sans MS", "Chalkboard SE", sans-serif;
+}
